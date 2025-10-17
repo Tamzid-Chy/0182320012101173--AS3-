@@ -1,0 +1,7 @@
+void printname() {
+  print("Tamzid Chowdhury");
+}
+
+void main() {
+  printname();
+}
